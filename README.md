@@ -4,14 +4,12 @@ An offline/online voice-activated AI assistant built on the **ESP32-S3**, powere
 
 ## 📺 Video Tutorial
 
-Build your own following the step-by-step guide!
 [![Watch the tutorial](https://img.youtube.com/vi/bf-1MPShis4/0.jpg)](https://www.youtube.com/watch?v=bf-1MPShis4)
 > **Click the image above to watch the full tutorial on YouTube.**
 
 ---
 ## 📺 Previous Version Video Tutorial
 
-Build your own following the step-by-step guide!
 [![Watch the tutorial](https://img.youtube.com/vi/hBlcBcnU5mk/0.jpg)](https://www.youtube.com/watch?v=hBlcBcnU5mk)
 > **Click the image above to watch the full tutorial on YouTube.**
 
@@ -45,7 +43,7 @@ Build your own following the step-by-step guide!
 
 ## Configuration & Setup
 
--- Included in the tutorial
+ Included in the tutorial
 
 ---
 
